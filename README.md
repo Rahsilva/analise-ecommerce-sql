@@ -1,6 +1,6 @@
 # 📊 Análise de E-commerce com SQL
 
-Projeto de análise de dados de uma empresa de e-commerce fictícia, desenvolvido como parte da minha jornada de transição para a área de dados.
+Projeto de análise de dados de uma empresa de e-commerce fictícia, desenvolvido como parte da minha jornada na área de dados.
 
 O objetivo foi responder **6 perguntas de negócio reais** usando SQL puro — desde agregações básicas até CTEs encadeadas e Window Functions.
 
@@ -179,6 +179,6 @@ ORDER BY receita_total DESC;
 
 ## 👤 Autor
 
-Feito por Rayssa Silva Coelho como parte da jornada de transição para analista de dados.
+Feito por Rayssa Silva Coelho como parte da jornada como analista de dados.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/rayssa-coelho2005/) | 📧 rayssa.silva.coelho2005@gmail.com
